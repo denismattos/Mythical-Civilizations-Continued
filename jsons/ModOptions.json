@@ -1,1 +1,11 @@
-{lastUpdated:2022-12-20T16:49:53Z,modUrl:"https://github.com/Sullien/Mythical-Civilizations",author:Sullien,modSize:1621,topics:[unciv-mod],constants:{unitUpgradeCost:{}}}
+{
+"modUrl": "https://github.com/denismattos/Mythical-Civilizations-Continued",
+"defaultBranch": "master",
+"author": "Sullien",
+"topics": [
+    "unciv-mod"
+],
+"uniques": [
+    "Cannot be used as permanent audiovisual mod"
+]
+}
