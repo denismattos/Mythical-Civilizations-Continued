@@ -6,7 +6,8 @@
 A continuation of Sullien's [<img src="https://i.imgur.com/qdtKSSq.png">](https://github.com/Sullien) great – and, now, defunct – [Mythical Civilizations](https://github.com/Sullien/Mythical-Civilizations) for [Unciv](https://github.com/yairm210/Unciv).
 
 This continued version merely fixes syntax to comply with Unciv's latest updates.  
-It was forked from carriontrooper's [<img src="https://i.imgur.com/qdtKSSq.png">](https://github.com/carriontrooper) [reupload](https://github.com/carriontrooper/Sullien-s-Mythical-Civilizations). Many thanks for this conservation effort! 🙂
+It was forked from carriontrooper's [<img src="https://i.imgur.com/qdtKSSq.png">](https://github.com/carriontrooper) [reupload](https://github.com/carriontrooper/Sullien-s-Mythical-Civilizations).  
+Many thanks for this conservation effort! 🙂
 
 ## Ownership Disclaimer
 Inspired by the awesome Mlie [<img src="https://i.imgur.com/qdtKSSq.png">](https://github.com/emipa606). 🙂
