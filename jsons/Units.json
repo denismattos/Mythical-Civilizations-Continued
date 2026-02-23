@@ -251,7 +251,7 @@
 		"uniqueTo": "Atlantis",
 		"replaces": "Great Prophet",
 		"uniques": [
-			"Can instantly construct a [Holy Site] improvement <if it hasn't used other actions yet>",
+			"Can instantly construct a [Holy site] improvement <if it hasn't used other actions yet>",
 			"Can instantly construct a [Sea Holy Site] improvement <if it hasn't used other actions yet>",
 			"Can Spread Religion <[4] times> <after which this unit is consumed>",
 			"Can remove other religions from cities <in [Friendly] tiles> <once> <after which this unit is consumed>",
