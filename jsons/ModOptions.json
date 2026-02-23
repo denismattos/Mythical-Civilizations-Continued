@@ -1,11 +1,11 @@
 {
-"modUrl": "https://github.com/denismattos/Mythical-Civilizations-Continued",
-"defaultBranch": "master",
-"author": "Sullien",
-"topics": [
-    "unciv-mod"
-],
-"uniques": [
-    "Cannot be used as permanent audiovisual mod"
-]
+    "modUrl": "https://github.com/denismattos/Mythical-Civilizations-Continued",
+    "defaultBranch": "master",
+    "author": "Sullien",
+    "topics": [
+        "unciv-mod"
+    ],
+    "uniques": [
+        "Cannot be used as permanent audiovisual mod"
+    ]
 }

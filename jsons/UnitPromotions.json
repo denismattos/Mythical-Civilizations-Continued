@@ -30,11 +30,15 @@
   },
   {
     "name": "Scythe",
-    "uniques": ["Heals [80] damage if it kills a unit"]
+    "uniques": [
+      "Heals [80] damage if it kills a unit"
+    ]
   },
   {
     "name": "Noble Knight's Ability",
-    "uniques": ["[+33]% Strength <vs [Ranged] units>"]
+    "uniques": [
+      "[+33]% Strength <vs [Ranged] units>"
+    ]
   },
   {
     "name": "Magecraft",
@@ -45,6 +49,8 @@
   },
   {
     "name": "Hex Field",
-    "uniques": ["All adjacent units heal [+15] HP when healing"]
+    "uniques": [
+      "All adjacent units heal [+15] HP when healing"
+    ]
   }
 ]

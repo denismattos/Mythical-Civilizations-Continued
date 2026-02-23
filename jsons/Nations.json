@@ -2,8 +2,12 @@
 	{
 		"name": "Vampires",
 		"leaderName": "Count Dracula",
-		"adjective": ["Vampire"],
-		"startBias": ["Avoid [Desert]"],
+		"adjective": [
+			"Vampire"
+		],
+		"startBias": [
+			"Avoid [Desert]"
+		],
 		"preferredVictoryType": "Domination",
 		"startIntroPart1": "O' Great and Timeless Count Dracula! You who lived over centuries, discovered the secrets of dark magic, formed many pacts with the Devil himself, and inspired an entire generation with your vampire abilities, as you prepared your plan to dominate the entire world, although you successfully infiltrated England, and although you fed on Lucy on small intervals as not to trigger attention, they eventually had the doctor Van Helsing try to treat her and he, deducing the presences of the supernatural, went after your followers, destroyed your land, and killed you before your plan could be completed.",
 		"startIntroPart2": "But the soils of time have awaken you once more, and they call you to bring the timeless vampires to new heights and succeed where you once failed: Can you feast upon your enemies, dominate their lands and stand the test of time?",
@@ -12,17 +16,42 @@
 		"defeated": "Congratulations, but although you have won, time will claim your soul.",
 		"introduction": "Hello, it is great to find a companion.",
 		"neutralHello": "Do you have a request for me?",
-		"neutralLetsHearIt": ["Is that it?", "Understandable"],
-		"neutralNo": ["I cannot concede.", "I pass."],
-		"neutralYes": ["Most reasonable", "Yes"],
+		"neutralLetsHearIt": [
+			"Is that it?",
+			"Understandable"
+		],
+		"neutralNo": [
+			"I cannot concede.",
+			"I pass."
+		],
+		"neutralYes": [
+			"Most reasonable",
+			"Yes"
+		],
 		"hateHello": "I will drink upon your blood.",
-		"hateLetsHearIt": ["You are lucky I haven't fed upon you yet.", "Hmm?"],
-		"hateNo": ["I cannot concede.", "I pass."],
-		"hateYes": ["This will buy you time, however short it might be"],
+		"hateLetsHearIt": [
+			"You are lucky I haven't fed upon you yet.",
+			"Hmm?"
+		],
+		"hateNo": [
+			"I cannot concede.",
+			"I pass."
+		],
+		"hateYes": [
+			"This will buy you time, however short it might be"
+		],
 		"afterPeace": "I'm not done with you yet.",
 		"tradeRequest": "I believe this to be a fair deal.",
-		"outerColor": [80, 80, 80],
-		"innerColor": [170, 170, 170],
+		"outerColor": [
+			80,
+			80,
+			80
+		],
+		"innerColor": [
+			170,
+			170,
+			170
+		],
 		"uniqueName": "Vampirism",
 		"uniqueText": "Units heal every turn even if they perform an action, but are more expensive to produce and much weaker on Desert Tiles.",
 		"uniques": [
@@ -45,12 +74,15 @@
 	{
 		"name": "Reapers",
 		"leaderName": "Thanatos",
-		"adjective": ["Reapers"],
-		"startBias": ["Mountain"],
+		"adjective": [
+			"Reapers"
+		],
+		"startBias": [
+			"Mountain"
+		],
 		"preferredVictoryType": "Domination",
 		"startIntroPart1": "It's a strange thing, isn't it? Death comes to us all, yet we do not understand it. We dread it, fear it, as if it were no more natural than being born. Throughout the ages, Death has had many faces. But the task has always been the same. Regardless of where. Regardless of whom.",
 		"startIntroPart2": "Your clock is ticking, and when it runs out. I will be there... All the way to the end.",
-
 		"declaringWar": "Just as it once begun, all things shall end.",
 		"attacked": "Wishing to speed up the clock?",
 		"defeated": "Truly surprising.",
@@ -58,11 +90,21 @@
 		"neutralHello": "Life.",
 		"hateHello": "You are very interesting.",
 		"tradeRequest": "I come bearing gifts.",
-		"outerColor": [25, 25, 35],
-		"innerColor": [255, 48, 98],
+		"outerColor": [
+			25,
+			25,
+			35
+		],
+		"innerColor": [
+			255,
+			48,
+			98
+		],
 		"uniqueName": "Moon of Roses",
 		"uniqueText": "Defeating enemy units grants faith. Doubled for Barbarians. Units are stronger when fighting wounded enemies.",
-		"uniques": ["[All] units gain the [Harbinger] promotion"],
+		"uniques": [
+			"[All] units gain the [Harbinger] promotion"
+		],
 		"cities": [
 			"Mercy",
 			"Charice",
@@ -79,8 +121,12 @@
 	{
 		"name": "Great Britain",
 		"leaderName": "King Arthur",
-		"adjective": ["Briton"],
-		"startBias": ["Lakes"],
+		"adjective": [
+			"Briton"
+		],
+		"startBias": [
+			"Lakes"
+		],
 		"preferredVictoryType": "Diplomatic",
 		"startIntroPart1": "Yours are the tales, Great King Arthur! While your stories have been debated by many, none debate the courage and power you wielded. Rising to become the King of Britain by taking the legendary Caliburn blade from a young age, you inspired many with your fearless and rightful command, defending Great Britain from the Saxons, founding the legendary Round Table, and inspiring humanity for centuries.",
 		"startIntroPart2": "Your people ask for you once more, King Arthur, to take up in arms and defend Britain from the great trials ahead. Can you stand the test of time and bring glory to Celtic Britain once more?",
@@ -91,8 +137,16 @@
 		"neutralHello": "Believe or not, I have a wizard as my advisor.",
 		"hateHello": "Better be careful.",
 		"tradeRequest": "Gifts! From Britain.",
-		"outerColor": [60, 60, 180],
-		"innerColor": [220, 220, 220],
+		"outerColor": [
+			60,
+			60,
+			180
+		],
+		"innerColor": [
+			220,
+			220,
+			220
+		],
 		"uniqueName": "Legend of Excalibur",
 		"uniqueText": "Swordsman, Longswordsman and Horseman are 33% Stronger. Defensive buildings grant a 25% Culture bonus.",
 		"uniques": [
@@ -120,8 +174,12 @@
 	{
 		"name": "Alien Visitor",
 		"leaderName": "Grayman",
-		"adjective": ["Alien"],
-		"startBias": ["Avoid [Tundra]"],
+		"adjective": [
+			"Alien"
+		],
+		"startBias": [
+			"Avoid [Tundra]"
+		],
 		"preferredVictoryType": "Diplomatic",
 		"startIntroPart1": "Greetings, Human. The people of Grayman have decided to visit your planet.",
 		"startIntroPart2": "If we don't like what we see, we might just leave.",
@@ -132,8 +190,16 @@
 		"neutralHello": "If this planet is made of water, why is it called 'Earth'?",
 		"hateHello": "Silence, human.",
 		"tradeRequest": "These are actually from another world.",
-		"outerColor": [45, 45, 45],
-		"innerColor": [55, 190, 55],
+		"outerColor": [
+			45,
+			45,
+			45
+		],
+		"innerColor": [
+			55,
+			190,
+			55
+		],
 		"uniqueName": "Otherworldly Advances",
 		"uniqueText": "Empire gains a science bonus that lowers as you advance through the eras. Gain bonus gold based on the number of techs researched.",
 		"uniques": [
@@ -171,8 +237,12 @@
 	{
 		"name": "Shangri-La",
 		"leaderName": "Sena",
-		"adjective": ["Shangri-lan"],
-		"startBias": ["Mountain"],
+		"adjective": [
+			"Shangri-lan"
+		],
+		"startBias": [
+			"Mountain"
+		],
 		"preferredVictoryType": "Cultural",
 		"startIntroPart1": "I bow to you, Lady Sena, ruler of the eternal kingdom of Shangri-La, where time has shown peace to be the answer. Your land, founded in the depths of Tibet had the hope of there being something more to life than just conflict. You showed this world to lost travelers once, but fearing other nations might not yet be ready for your secrets, you hid your kingdom in the depths of the mountains, where you observe and record the outside world in the hopes that they too understand the final truth of life.",
 		"startIntroPart2": "But is it not that time, O' Wise Sena? Are your people not ready to show themselves to the world and reveal wonders beyond even their wildest dreams? Can you Stand the test of time and show their world what the true meaning of existence?",
@@ -181,23 +251,41 @@
 		"defeated": "This is very unfortunate, but time is just a mirage to us, and when the dream ends, we shall return.",
 		"introduction": "Are you ready to see the secrets of this world?",
 		"neutralHello": "Welcome, kind friend.",
-		"neutralLetsHearIt": ["Ohh?", "Something for us?"],
+		"neutralLetsHearIt": [
+			"Ohh?",
+			"Something for us?"
+		],
 		"neutralNo": [
 			"Unfortunately, we cannot agree.",
 			"Very tempting, but we will pass."
 		],
-		"neutralYes": ["Impressive", "We will accept"],
+		"neutralYes": [
+			"Impressive",
+			"We will accept"
+		],
 		"hateHello": "The spirits are uneasy due to your actions...",
-		"hateLetsHearIt": ["Something for us?"],
+		"hateLetsHearIt": [
+			"Something for us?"
+		],
 		"hateNo": [
 			"Unfortunately, we cannot agree.",
 			"Very tempting, but we will pass."
 		],
-		"hateYes": ["We will accept"],
+		"hateYes": [
+			"We will accept"
+		],
 		"afterPeace": "A very wise decision.",
 		"tradeRequest": "Are you ready to learn the secrets of this world?",
-		"outerColor": [202, 225, 255],
-		"innerColor": [67, 110, 238],
+		"outerColor": [
+			202,
+			225,
+			255
+		],
+		"innerColor": [
+			67,
+			110,
+			238
+		],
 		"uniqueName": "Spiritual Mound of Eternity",
 		"uniqueText": "Units are invisible to others unless they are adjacent to them, but suffer a penalty when attacking others and settlers are harder to produce. Gain extra Culture from Trading Posts.",
 		"uniques": [
@@ -222,8 +310,12 @@
 	{
 		"name": "Wizard Association",
 		"leaderName": "Nicolas Flamel",
-		"adjective": ["Wizard"],
-		"startBias": ["Plains"],
+		"adjective": [
+			"Wizard"
+		],
+		"startBias": [
+			"Plains"
+		],
 		"preferredVictoryType": "Cultural",
 		"startIntroPart1": "Is magic real? Across our history, there have been hundreds of mages, gurus, alchemists, and even clairvoyants. But the true wizards know better, they know to keep themselves hidden, sometimes in plain sight. Because magic is not something to be trifled with. It's a responsibility, one that wizards carry during their entire lives.",
 		"startIntroPart2": "I am Nicolas Flamel, and I welcome you to our world. Now... Are you ready to see true magic?",
@@ -234,8 +326,16 @@
 		"neutralHello": "An apple a day keeps the wizard away.",
 		"hateHello": "My patience is running thin.",
 		"tradeRequest": "No black magic here, promise.",
-		"outerColor": [43, 43, 118],
-		"innerColor": [208, 64, 4],
+		"outerColor": [
+			43,
+			43,
+			118
+		],
+		"innerColor": [
+			208,
+			64,
+			4
+		],
 		"uniqueName": "Ten Magic Seals",
 		"uniqueText": "Empire has +1 Culture and Gold. Doubled each time you advance an era. Units have a chance to be more effective in combat.",
 		"uniques": [
@@ -266,8 +366,12 @@
 	{
 		"name": "Atlantis",
 		"leaderName": "Evenor",
-		"adjective": ["Atlantean"],
-		"startBias": ["Coast"],
+		"adjective": [
+			"Atlantean"
+		],
+		"startBias": [
+			"Coast"
+		],
 		"preferredVictoryType": "Scientific",
 		"startIntroPart1": "Greetings, Evenor. Few empires have sparked such wonder, such curiosity. As the sunken world of Atlantis. Torn and sunk by divine punishment, your people advanced beyond imagination and ruled over this world's endless seas.",
 		"startIntroPart2": "There are many who wish to see your magnificence brought to life once more, lord Evenor. Can you stand the test of time and rule over the seas once more?",
@@ -278,8 +382,16 @@
 		"neutralHello": "You should come for a visit.",
 		"hateHello": "You are not welcome in the sea.",
 		"tradeRequest": "This was actually built underwater.",
-		"outerColor": [0, 104, 139],
-		"innerColor": [129, 224, 255],
+		"outerColor": [
+			0,
+			104,
+			139
+		],
+		"innerColor": [
+			129,
+			224,
+			255
+		],
 		"uniqueName": "The Sunken City",
 		"uniqueText": "+1 Food on Coasts and Oceans. Doubled after discovering Astronomy. Great Improvements can be built on water, and provide double yields while there.",
 		"uniques": [
@@ -304,8 +416,12 @@
 	{
 		"name": "The Illuminati",
 		"leaderName": "Adam Weishaupt",
-		"adjective": ["Illuminati"],
-		"startBias": ["Avoid [Coast]"],
+		"adjective": [
+			"Illuminati"
+		],
+		"startBias": [
+			"Avoid [Coast]"
+		],
 		"preferredVictoryType": "Scientific",
 		"startIntroPart1": "A secret order? Right in the middle of our own?",
 		"startIntroPart2": "Gibberish. Nothing to see here.",
@@ -316,8 +432,16 @@
 		"neutralHello": "We have big plans for you.",
 		"hateHello": "Our leader cannot see you right now.",
 		"tradeRequest": "Move this along.",
-		"outerColor": [238, 207, 160],
-		"innerColor": [156, 102, 31],
+		"outerColor": [
+			238,
+			207,
+			160
+		],
+		"innerColor": [
+			156,
+			102,
+			31
+		],
 		"uniqueName": "New World Order",
 		"uniqueText": "Unaffected by unhappiness penalties. This effect stops applying when below -10 Happiness.",
 		"uniques": [

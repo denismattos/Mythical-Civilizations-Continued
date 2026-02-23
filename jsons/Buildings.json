@@ -53,7 +53,9 @@
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Arsenal",
 		"requiredTech": "Replaceable Parts",
-		"uniques": ["Destroyed when the city is captured"]
+		"uniques": [
+			"Destroyed when the city is captured"
+		]
 	},
 	{
 		"name": "Magic Texts",
@@ -91,7 +93,9 @@
 		"science": 3,
 		"culture": 1,
 		"isNationalWonder": true,
-		"percentStatBonus": { "science": 50 },
+		"percentStatBonus": {
+			"science": 50
+		},
 		"uniques": [
 			"Only available <if [Library] is constructed in all [non-[Puppeted]] cities>",
 			"[+15]% [Science] [in all cities] <while the empire is happy>",

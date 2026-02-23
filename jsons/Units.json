@@ -29,7 +29,9 @@
 			"[-33]% Strength <vs cities>",
 			"Never appears as a Barbarian unit"
 		],
-		"promotions": ["Noble Knight's Ability"],
+		"promotions": [
+			"Noble Knight's Ability"
+		],
 		"attackSound": "horse"
 	},
 	{
@@ -49,7 +51,9 @@
 			"[-33]% Strength <vs cities>"
 		],
 		"hurryCostModifier": 20,
-		"promotions": ["Scythe"],
+		"promotions": [
+			"Scythe"
+		],
 		"attackSound": "horse"
 	},
 	{
@@ -63,8 +67,12 @@
 		"strength": 25,
 		"cost": 150,
 		"obsoleteTech": "Rifling",
-		"uniques": ["[+50]% Strength <in [Desert] tiles>"],
-		"promotions": ["Vampire Conversion"],
+		"uniques": [
+			"[+50]% Strength <in [Desert] tiles>"
+		],
+		"promotions": [
+			"Vampire Conversion"
+		],
 		"attackSound": "nonmetalhit",
 		"civilopediaText": [
 			{
@@ -83,7 +91,11 @@
 		"rangedStrength": 45,
 		"cost": 350,
 		"requiredTech": "Ballistics",
-		"promotions": ["Survivalism I", "Survivalism II", "March"],
+		"promotions": [
+			"Survivalism I",
+			"Survivalism II",
+			"March"
+		],
 		"attackSound": "nonmetalhit",
 		"civilopediaText": [
 			{
@@ -121,7 +133,9 @@
 		"cost": 120,
 		"requiredTech": "Machinery",
 		"upgradesTo": "Gatling Gun",
-		"promotions": ["Hex Field"],
+		"promotions": [
+			"Hex Field"
+		],
 		"obsoleteTech": "Industrialization",
 		"attackSound": "arrow"
 	},
@@ -159,7 +173,10 @@
 			"No defensive terrain bonus",
 			"Never appears as a Barbarian unit"
 		],
-		"promotions": ["Interception I", "Sortie"],
+		"promotions": [
+			"Interception I",
+			"Sortie"
+		],
 		"attackSound": "gdrAttack"
 	},
 	{
