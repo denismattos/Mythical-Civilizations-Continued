@@ -321,7 +321,7 @@
     "uniqueName": "New World Order",
     "uniqueText": "Unaffected by unhapiness penalties. This effect stops applying when below -10 Happiness.",
     "uniques": [
-      "[+75]% growth [in all cities] <when between [-10] and [0] Happiness>"
+      "[+75]% growth [in all cities] <when between [-10] and [0] [Happiness]>"
     ],
     "cities": [
       "Majesty",

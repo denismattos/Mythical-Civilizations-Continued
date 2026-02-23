@@ -262,7 +262,7 @@
       "Great Person - [Faith]",
       "Unbuildable",
       "Religious Unit",
-      "Hidden when religion is disabled",
+      "Only available <when religion is enabled>",
       "Takes your religion over the one in their birth city",
       "Will not be displayed in Civilopedia"
     ],
